@@ -9,7 +9,6 @@ knowledgeable
 drain
 smile
 false
-productive
 hole
 suit
 fetch
@@ -128,7 +127,6 @@ preach
 back
 paint
 coordinated
-smash
 fire
 parsimonious
 kindly
@@ -196,5 +194,6 @@ roll
 precious
 bulb
 loud
+whale
 hum
 detailed
