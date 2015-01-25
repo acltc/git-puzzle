@@ -95,7 +95,7 @@ alert
 meat
 jail
 crowded
-exist
+existed
 harmonious
 sparkle
 comparison
@@ -110,7 +110,7 @@ testy
 scene
 curved
 vengeful
-nauseating
+horrible
 history
 nation
 dust
